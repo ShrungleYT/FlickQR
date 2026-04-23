@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     images: ['/og-image.png'],
   },
   verification: {
-    google: 'CyK1jpPDLjLlSWeoZ3fUloV4ghjnak43wwLyqfna1II',
+    google: 'BFK38skX6FaTNCH5H1QYEXoNmztTU3jHJ52TNCrHCDM',
   },
   alternates: {
     canonical: 'https://flickqr.netlify.app',
