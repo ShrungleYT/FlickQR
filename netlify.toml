@@ -1,6 +1,4 @@
 [build]
+  # Remove or comment out the 'base' line
   command = "npm run build"
   publish = ".next"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
