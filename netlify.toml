@@ -2,3 +2,8 @@
   # Remove or comment out the 'base' line
   command = "npm run build"
   publish = ".next"
+[[redirects]]
+  from = "/google2bdf2fec5fb7c08a.html"
+  to = "https://flickqr.netlify.app/"
+  status = 200
+  force = true
