@@ -1,4 +1,4 @@
-<img width="1272" height="788" alt="image" src="https://github.com/user-attachments/assets/7388e31a-42ba-4963-98cb-2231a2678e76" />"use client"
+"use client"
 
 import { Navbar } from "@/components/navbar"
 import { Hero } from "@/components/hero"
